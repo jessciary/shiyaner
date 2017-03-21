@@ -31,8 +31,11 @@
 
 ### 实验结果如下：
 1. 本地操作log截图
-
+![http://i2.buimg.com/567571/2abcfe81d0069370.png]
 2. Github上commits截图
+![http://i1.piimg.com/567571/690b213a8323c6b1.png]
+![http://i4.buimg.com/567571/3ae00a5160a0937e.png]
+![http://i2.buimg.com/567571/8c8577e6b9eb198c.png]
 
 ## 四、实验小结
 
